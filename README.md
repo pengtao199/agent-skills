@@ -12,12 +12,12 @@ This repository contains reusable agent skills.
 Install all skills:
 
 ```bash
-npx skills add <owner>/<repo> -g --all
+npx skills add pengtao199/agent-skills -g --all
 ```
 
 Install one skill:
 
 ```bash
-npx skills add <owner>/<repo> -g --skill topon-ios-cocoapads -y
-npx skills add <owner>/<repo> -g --skill write-development-rules -y
+npx skills add pengtao199/agent-skills -g --skill topon-ios-cocoapads -y
+npx skills add pengtao199/agent-skills -g --skill write-development-rules -y
 ```
