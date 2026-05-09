@@ -1,0 +1,4 @@
+interface:
+  display_name: "TopOn iOS CocoaPods"
+  short_description: "TopOn iOS CocoaPods 集成与排障技能"
+  default_prompt: "Use $topon-ios-cocoapads to integrate TopOn iOS with CocoaPods and verify compliance, plist, and debug setup."

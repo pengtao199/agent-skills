@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Development Rules"
+  short_description: "Draft practical coding and workflow rules"
+  default_prompt: "Use $write-development-rules to draft concise, actionable development rules for this project."
