@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Interaction Tuning"
+  short_description: "Tune Swift iOS motion and interaction feel"
+  default_prompt: "Use $ios-interaction-tuning to review and tune this iOS interaction, animation, or motion-runtime implementation."
