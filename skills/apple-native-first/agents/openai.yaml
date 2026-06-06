@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Native First"
+  short_description: "Route iOS needs to official Apple APIs first"
+  default_prompt: "Use $apple-native-first to map this Apple-platform requirement to native Apple frameworks and official Apple documentation before proposing custom or third-party code."
